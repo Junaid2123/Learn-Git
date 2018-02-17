@@ -1,0 +1,24 @@
+
+
+git confil --global user.name "Junaid Khan"
+git confil --global user.email "junaidkhan.iw@gmail.com"
+
+
+
+Learn Git Basic
+
+1) git init
+
+2) git add [filename] || -A
+
+3) git status
+
+4) git commit
+
+5) git remote add origin repoName
+
+6) git push origin master
+
+7) git clone repoNme
+
+8) git push origin master
